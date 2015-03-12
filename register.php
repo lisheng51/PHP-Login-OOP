@@ -6,4 +6,3 @@ if (isset($_POST['submit']) === true) {
 }else{
     LIS_Register::show_form();
 }
-?>

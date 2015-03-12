@@ -6,5 +6,3 @@ if (isset($_POST['submit']) === true) {
 }else{
     LIS_Login::show_form();
 }
-
-?>

@@ -7,5 +7,3 @@ if (isset($_POST['submit']) === true) {
 }
 $obj_profiel->execute();
 
-?>
-
